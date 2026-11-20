@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Jagat Mohith Andhavarapu, Data Engineer and AI Data Infrastructure">
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070d1c"/><stop offset="0.5" stop-color="#141b40"/><stop offset="1" stop-color="#072e42"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity="0.26"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M 38 0 L 0 0 0 38" fill="none" stroke="#7dd3fc" stroke-opacity="0.09" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<circle cx="1025" cy="100" r="220" fill="url(#glow)"/>
+<g fill="none" stroke="url(#line)" stroke-opacity=".67" stroke-width="2">
+ <path d="M900 30h80l33 32h110"/><path d="M815 105h115l45 45h190"/><path d="M850 225h75l35-35h205"/><path d="M940 255h110l35-33h90"/>
+ <path d="M1012 62v42m80 46v40m-130 0v35"/>
+</g>
+<g fill="#38bdf8"><circle cx="900" cy="30" r="5"/><circle cx="1123" cy="62" r="5"/><circle cx="815" cy="105" r="5"/><circle cx="1165" cy="150" r="5"/><circle cx="850" cy="225" r="5"/><circle cx="1165" cy="190" r="5"/></g>
+<rect x="54" y="40" width="190" height="27" rx="13" fill="#0d3751" stroke="#0891b2" stroke-opacity="0.75"/>
+<text x="149" y="58" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" fill="#7dd3fc" text-anchor="middle" font-weight="700" letter-spacing="2">DATA ENGINEERING</text>
+<text x="52" y="133" font-family="DejaVu Sans, Arial, sans-serif" font-size="42" font-weight="750" fill="#f8fafc">JAGAT MOHITH</text>
+<text x="52" y="184" font-family="DejaVu Sans, Arial, sans-serif" font-size="42" font-weight="750" fill="#f8fafc">ANDHAVARAPU</text>
+<rect x="53" y="202" width="550" height="3" rx="2" fill="url(#line)"/>
+<text x="54" y="243" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" fill="#a5d9ef" letter-spacing=".3">DATA ENGINEER  /  AI DATA INFRASTRUCTURE</text>
+<text x="54" y="271" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" fill="#9ca3af">LAKEHOUSE  •  RAG  •  CLOUD PLATFORMS</text>
+<rect x="1" y="1" width="1198" height="298" rx="19" fill="none" stroke="#334155" stroke-opacity="0.8" stroke-width="2"/>
+</svg>
